@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  border: none;
+  outline: none;
+}
+.contenedortitulos {
+  display: flex;
+  flex-direction: column;
+  width: 280px;
+  align-items: stretch;
+  margin-top: 183px;
+}
+.encabezado {
+  background: #01d0b1;
+  height: 360px;
+  width: 100%;
+}
+.hotelesdetalles {
+  display: flex;
+  flex-direction: column;
+  color: #ffff;
+  font-size: 10px;
+  align-items: flex-start;
+  margin-left: 68px;
+}
+.hoteles {
+  color: #ffffff;
+  font-size: 40px;
+}
+.tituloschicos {
+  color: #ffff;
+  font-family: "Roboto", sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
+}

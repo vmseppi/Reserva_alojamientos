@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  border: none;
+  outline: none;
+}
+.seleccionfiltro {
+  background: #209cee;
+  height: 90px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.espaciofiltros {
+  background-color: white;
+  width: 100%;
+  height: 45%;
+  justify-content: space-around;
+  align-items: center;
+  display: flex;
+}
+.contenedorfiltros {
+  border: 1px solid black;
+  width: 163px;
+  border-radius: 9px;
+  height: 31px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btnreset {
+  border: 1px solid black;
+  width: 163px;
+  border-radius: 9px;
+  height: 31px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
